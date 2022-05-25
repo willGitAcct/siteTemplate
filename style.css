@@ -1,0 +1,23 @@
+:root{
+    --clr-primary-200: #F3EED9;
+    --clr-primary-500: #824936;
+    --clr-neutral-100: #FFF;
+    --clr-neutral-800: #222C2A;
+
+    --ff-primary: 'Roboto', sans-serif;
+    --ff-accent: 'Playfair Display', serif;
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
