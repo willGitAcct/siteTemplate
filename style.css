@@ -86,6 +86,7 @@ header,section {
 img {
     max-width: 100%;
     display: block;
+    border-radius: 15px;
 }
 
 
